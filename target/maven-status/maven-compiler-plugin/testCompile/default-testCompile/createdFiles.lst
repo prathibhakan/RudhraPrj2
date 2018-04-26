@@ -1,0 +1,16 @@
+com\ReportGeneration\GenerateReports.class
+com\ScreenFunctionsAutomationTC\Admin_DeleteCustomer.class
+com\TestCasesAutomation\TC_03_Verify_Admin_DeleteCustomer.class
+com\GenericFunctions\GenericFunctions.class
+com\ScreenFunctions\AddCustomer_Generic.class
+com\ScreenFunctions\AdminLoginGeneric.class
+com\ScreenFunctions\Login.class
+com\TestCasesAutomation\TC02_Verify_AddCustomerFiles.class
+com\TestCases\TCases_Admin_Page.class
+com\GenericFunctions\TestNGListeners.class
+com\TestCasesAutomation\TC01_Verify_AddCustomerLink.class
+com\ScreenFunctions\Dashboard.class
+com\TestCasesAutomation\TC02_Verify_Change_Passwrd_Link.class
+com\TestCases\TC02_Admin_Add_Customer.class
+com\ScreenFunctions\ApplyLeave.class
+com\ScreenFunctionsAutomationTC\Admin_AddCustomer.class

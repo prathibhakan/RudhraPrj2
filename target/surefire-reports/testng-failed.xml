@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.GenericFunctions.TestNGListeners"/>
+  </listeners>
+  <test verbose="0" name="Test(failed)">
+    <classes>
+      <class name="com.TestCasesAutomation.TC02_Verify_AddCustomerFiles">
+        <methods>
+          <include name="TC02_Verify_Admin_AddCustomer_Fileds"/>
+        </methods>
+      </class> <!-- com.TestCasesAutomation.TC02_Verify_AddCustomerFiles -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

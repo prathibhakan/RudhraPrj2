@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="61672" started-at="2018-04-26T05:09:31Z" finished-at="2018-04-26T05:10:33Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="61672" started-at="2018-04-26T05:09:31Z" finished-at="2018-04-26T05:10:33Z">
+      <class name="com.TestCasesAutomation.TC01_Verify_AddCustomerLink">
+        <test-method status="PASS" signature="TC01_Verify_AddCustomerLink_Admin()[pri:0, instance:com.TestCasesAutomation.TC01_Verify_AddCustomerLink@26653222]" name="TC01_Verify_AddCustomerLink_Admin" duration-ms="23316" started-at="2018-04-26T10:39:33Z" finished-at="2018-04-26T10:39:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_Verify_AddCustomerLink_Admin -->
+      </class> <!-- com.TestCasesAutomation.TC01_Verify_AddCustomerLink -->
+      <class name="com.TestCasesAutomation.TC02_Verify_AddCustomerFiles">
+        <test-method status="PASS" signature="TC02_Verify_Admin_AddCustomer_Fileds()[pri:0, instance:com.TestCasesAutomation.TC02_Verify_AddCustomerFiles@ae45eb6]" name="TC02_Verify_Admin_AddCustomer_Fileds" duration-ms="35040" started-at="2018-04-26T10:39:57Z" finished-at="2018-04-26T10:40:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_Verify_Admin_AddCustomer_Fileds -->
+      </class> <!-- com.TestCasesAutomation.TC02_Verify_AddCustomerFiles -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

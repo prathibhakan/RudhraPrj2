@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name="Suite" parallel="methods" thread-count="4">
+<listeners>
+
+<listener class-name="com.GenericFunctions.TestNGListeners"></listener>
+
+</listeners>
+
+  <test  name="Test">
+  <classes>
+  <class name="com.TestCasesAutomation.TC01_Verify_AddCustomerLink"></class>
+  <class name="com.TestCasesAutomation.TC02_Verify_AddCustomerFiles"></class>
+  <!-- <class name="com.TestCasesAutomation.TC02_Verify_Change_Passwrd_Link"></class>
+  <class name="com.TestCasesAutomation.TC_03_Verify_Admin_DeleteCustomer"></class> -->
+  </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
